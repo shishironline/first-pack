@@ -1,0 +1,35 @@
+{
+  "name": "first-pack",
+  "displayName": "first-pack",
+  "description": "trial of creating custom extension pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "dendron.dendron", 
+    "dendron.dendron-markdown-preview-enhanced", 
+    "dendron.dendron-markdown-shortcuts", 
+    "dendron.dendron-paste-image", 
+    "dendron.dendron-snippet-maker", 
+    "donjayamanne.python-environment-manager", 
+    "eamodio.gitlens", 
+    "EditorConfig.EditorConfig", 
+    "esbenp.prettier-vscode", 
+    "hbenl.vscode-test-explorer", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance", 
+    "ms-toolsai.jupyter", 
+    "ms-toolsai.jupyter-keymap", 
+    "ms-toolsai.jupyter-renderers", 
+    "ms-vscode.test-adapter-converter", 
+    "Mukundan.python-docs", 
+    "nils-ballmann.python-coding-tools", 
+    "njpwerner.autodocstring", 
+    "redhat.vscode-yaml", 
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
